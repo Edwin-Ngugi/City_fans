@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue;
+    padding: 10px 10px 10px 10px;
+    border:5px solid black;
+}
+login_form {  display: table; }
+div.form-example {  display: table-row; }
+label, input {  display: table-cell;  margin-bottom: 10px; }
+label {  padding-left: 10px; } 
+#logo{
+    display: block;
+    margin: auto;
+}
